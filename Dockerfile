@@ -28,3 +28,5 @@ EXPOSE 5000
 CMD ["flask", "run"]
 
 # now we will going to crate the image form the this docker file: docker build -t my-flask-app .
+# docker images     # to check the images is created
+# then run 
