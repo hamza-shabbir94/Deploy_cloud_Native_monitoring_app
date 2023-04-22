@@ -16,7 +16,7 @@
 # then deploy pods using kubernetes deployment - search kubernetes deployment https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
 # and also deploy services - https://kubernetes.io/docs/concepts/services-networking/service/
 
-# aws eks update-kubeconfig --name cloud_native_cluster
+# aws eks update-kubeconfig --name cloud_native_cluster   # this how we load the config
 
 
 
